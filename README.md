@@ -1,5 +1,5 @@
 # hstdp
-Simulation codes for the hstdp model
+Simulation codes for the spike-timing-dependent heterosynaptic plasticity(h-stdp) model
 
 Files below are simulation codes associated with
 
